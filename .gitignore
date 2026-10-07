@@ -1,0 +1,14 @@
+.DS_Store
+.idea/
+.vs/
+bin/
+obj/
+target/
+node_modules/
+*.user
+*.suo
+*.wsuo
+*.db
+*.db-shm
+*.db-wal
+.env
